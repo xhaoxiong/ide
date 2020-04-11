@@ -1,3 +1,3 @@
-module github.com/xhaoxiong/Ide
+module ide
 
 go 1.13
